@@ -2,7 +2,7 @@
 
 A collection of web apps to aid with mental and therapy.
 
-Try them at [olligobber.github.io/MentalTools](https://olligobber.github.io/MentalTools).
+Try them at [hexacardic.github.io/MentalTools](https://hexacardic.github.io/MentalTools).
 
 Source files live in the top directory. Compiled output for hosting lives in the docs directory.
 
